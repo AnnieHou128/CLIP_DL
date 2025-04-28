@@ -2,6 +2,8 @@
 
 This project implements a CLIP-based model for analyzing chest X-ray images and their associated medical findings. The model is trained to understand the relationship between medical images and their textual descriptions, enabling zero-shot classification of various chest conditions.
 
+Multimodal Attention mechanism added into this version
+
 ## Features
 
 - CLIP-based image-text matching for chest X-ray analysis
